@@ -1,0 +1,25 @@
+        body {
+            font-family: Arial, sans-serif;
+            color: white;
+            padding: 40px;
+            color: black;
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        .box {
+            padding: 20px;
+            margin: 20px auto;
+            width: 400px;
+            border-radius: 10px;
+        }
+
+        p {
+            background: #1c1c2b;
+            padding: 10px;
+            border-radius: 6px;
+            margin: 8px 0;
+            color: #00ffcc;
+        }
